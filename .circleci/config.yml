@@ -110,6 +110,7 @@ jobs:
             - calypso/server
             - calypso/config
             - calypso/package.json
+            - calypso/npm-shrinkwrap.json
             - calypso/.nvmrc
 
   win-and-linux:
