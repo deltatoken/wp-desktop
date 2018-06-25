@@ -116,8 +116,7 @@
       "target": {
         "target": "nsis",
         "arch": [
-          "x64",
-          "ia32"
+          "x64"
         ]
       },
       "icon": "./resource/image/win/wordpress.ico"
